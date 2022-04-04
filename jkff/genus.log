@@ -1,0 +1,14 @@
+Cadence Genus(TM) Synthesis Solution.
+Copyright 2017 Cadence Design Systems, Inc. All rights reserved worldwide.
+Cadence and the Cadence logo are registered trademarks and Genus is a trademark
+of Cadence Design Systems, Inc. in the United States and other countries.
+
+Version: 17.22-s017_1, built Sun Apr 01 2018
+Options: legacy 
+Date:    Fri Dec 03 16:24:57 2021
+Host:    VLSI12 (x86_64 w/Linux 2.6.32-431.el6.x86_64) (4cores*8cpus*1physical cpu*Intel(R) Core(TM) i7-4770 CPU @ 3.40GHz 8192KB) (7980352KB)
+OS:      Red Hat Enterprise Linux Client release 6.5 (Santiago)
+
+Checking out license: Genus_Synthesis
+couldn't read file "legacy": no such file or directory
+Abnormal exit.
