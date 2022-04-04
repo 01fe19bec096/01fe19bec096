@@ -1,0 +1,11 @@
+ncvlog(64): 15.20-s051: (c) Copyright 1995-2018 Cadence Design Systems, Inc.
+module jkff(reset, clk, j, k, q, qnot);
+          |
+ncvlog: *W,RECOMP (/home/adld25/jkff/jkff_netlist.v,7|10): recompiling design unit worklib.jkff.
+	First compiled from line 1 of /home/adld25/jkff/jkff.v.
+module jkff(input reset, input clk, input j, input k, output reg q, output qnot);
+          |
+ncvlog: *W,RECOMP (/home/adld25/jkff/jkff_tb.v,21|10): recompiling design unit worklib.jkff.
+	First compiled from line 1 of /home/adld25/jkff/jkff.v.
+ncvlog: Memory Usage - 21.3M program + 28.9M data = 50.2M total
+ncvlog: CPU Usage - 0.0s system + 0.0s user = 0.0s total (0.1s, 30.9% cpu)
